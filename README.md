@@ -1,4 +1,4 @@
-# Greeter [![Build Status](https://travis-ci.org/ts123/test-ruby-gem.png?branch=master)](https://travis-ci.org/ts123/test-ruby-gem) [![Coverage Status](https://coveralls.io/repos/ts123/test-ruby-gem/badge.png?branch=master)](https://coveralls.io/r/ts123/test-ruby-gem?branch=master)
+# Greeter [![Build Status](https://travis-ci.org/ts123/test-ruby-gem.png?branch=master)](https://travis-ci.org/ts123/test-ruby-gem) [![Coverage Status](https://coveralls.io/repos/ts123/test-ruby-gem/badge.png?branch=master)](https://coveralls.io/r/ts123/test-ruby-gem?branch=master) [![Code Climate](https://codeclimate.com/repos/52aaa0caf3ea00031c025749/badges/fbf48603af8d5adec7a1/gpa.png)](https://codeclimate.com/repos/52aaa0caf3ea00031c025749/feed)
 
 A sample Ruby Gem for practice
 
