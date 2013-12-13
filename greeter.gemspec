@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'greeter/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "greeter"
+  spec.name          = "_ts123.greeter"
   spec.version       = Greeter::VERSION
   spec.authors       = ["ts123"]
   spec.email         = ["test@mail"]
