@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "greeter"
   spec.version       = Greeter::VERSION
   spec.authors       = ["ts123"]
-  spec.email         = ["hukurou@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["test@mail"]
+  spec.description   = %q{sample module}
+  spec.summary       = %q{summary}
   spec.homepage      = ""
   spec.license       = "MIT"
 
