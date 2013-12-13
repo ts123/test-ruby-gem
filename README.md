@@ -1,6 +1,6 @@
-# Greeter
+# Greeter [![Build Status](https://travis-ci.org/ts123/test-ruby-gem.png?branch=master)](https://travis-ci.org/ts123/test-ruby-gem) [![Coverage Status](https://coveralls.io/repos/ts123/test-ruby-gem/badge.png?branch=master)](https://coveralls.io/r/ts123/test-ruby-gem?branch=master)
 
-A sample Ruby Gem
+A sample Ruby Gem for practice
 
 ## Installation
 
