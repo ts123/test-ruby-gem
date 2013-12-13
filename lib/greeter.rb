@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 require "greeter/version"
 
 module Greeter
